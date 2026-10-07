@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="OnionArchitecture.Application/OnionArchitecture.Application.csproj" />
+    <Project Path="OnionArchitecture.Domain/OnionArchitecture.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="OnionArchitecture.Infrastructure/OnionArchitecture.Infrastructure.csproj" />
+    <Project Path="OnionArchitecture.Persistence/OnionArchitecture.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="OnionArchitecture.WebApi/OnionArchitecture.WebApi.csproj" />
+  </Folder>
+</Solution>
